@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(255, 255, 255);
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-family: monospace;
+    text-decoration: black;
+}
+
+form {
+    width: 800px;
+    height: 900px;
+    justify-content: center;
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(147, 187, 144);
+    /* position: relative; */
+    /* left: 1500px; */
+    border: 1px solid black;
+    align-items: center;
+    text-align: center;
+    margin-left: 50%;
+    transform: translateX(-50%);
+    border-radius: 30px;
+}
+
+input {
+    width: 400px;
+    /* height: 70px; */
+    position: relative;
+    /* top: 200px; */
+    /* font-size: xx-large; */
+}
+
+label {
+    position: relative;
+    /* top: 200px; */
+    /* font-size: xx-large; */
+}
+
+h1 {
+    font-size: 28px;
+    font-family:'Times New Roman', Times, serif
+}
